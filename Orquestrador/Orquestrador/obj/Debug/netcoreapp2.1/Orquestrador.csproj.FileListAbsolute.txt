@@ -1,0 +1,14 @@
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\bin\Debug\netcoreapp2.1\Orquestrador.deps.json
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\bin\Debug\netcoreapp2.1\Orquestrador.runtimeconfig.json
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\bin\Debug\netcoreapp2.1\Orquestrador.runtimeconfig.dev.json
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\bin\Debug\netcoreapp2.1\Orquestrador.dll
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\bin\Debug\netcoreapp2.1\Orquestrador.pdb
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\obj\Debug\netcoreapp2.1\Orquestrador.csprojAssemblyReference.cache
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\obj\Debug\netcoreapp2.1\Orquestrador.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\obj\Debug\netcoreapp2.1\Orquestrador.RazorAssemblyInfo.cache
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\obj\Debug\netcoreapp2.1\Orquestrador.RazorAssemblyInfo.cs
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\obj\Debug\netcoreapp2.1\Orquestrador.AssemblyInfoInputs.cache
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\obj\Debug\netcoreapp2.1\Orquestrador.AssemblyInfo.cs
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\obj\Debug\netcoreapp2.1\Orquestrador.RazorTargetAssemblyInfo.cache
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\obj\Debug\netcoreapp2.1\Orquestrador.dll
+C:\Desenvolvimento\video-maker-csharp\Orquestrador\Orquestrador\obj\Debug\netcoreapp2.1\Orquestrador.pdb
